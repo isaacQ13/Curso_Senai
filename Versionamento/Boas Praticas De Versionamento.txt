@@ -1,0 +1,18 @@
+Segunda Atividade de versionamento do curso do senai
+
+- Comentários nas alterações;
+    Toda alteração feita em algum componente versionado deve ser acompanhada de um comentário,
+    um texto que permita o entendimento da razão pela qual a mudança foi realizada
+
+- Assegurar que os commits não causem quebra do build;
+    Uma prática de fundamental importância é a de assegurar que os commits não causem erros ao dar build no projeto.
+
+- Backup de versões;
+    Todos os backups das versões do projeto devem ser mantidos no repositório,
+    preferencialmente associados a uma identificação, uma tag.
+
+
+Referencias:
+    https://blog.myscrumhalf.com/algumas-boas-praticas-no-controle-de-versao/
+    https://luizgustavoss.wordpress.com/2010/09/09/boas-praticas-na-utilizacao-de-controle-de-versao/
+    https://daslab-ufes.github.io/github/
