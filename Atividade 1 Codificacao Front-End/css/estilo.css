@@ -6,13 +6,26 @@
 
 /*banner*/
 
+
 /*Produtos vendidos*/
+
+
 /*Rodapé*/
 
+footer {
+    text-align: center;
+}
+
+footer p {
+    font-weiht: bold;
+    padding: 10px;
+}
+
+
 /*Botão Voltar topo*/
+
 
 /* página de login  */
 
 
 /* Formulário de cadastro*/
-
