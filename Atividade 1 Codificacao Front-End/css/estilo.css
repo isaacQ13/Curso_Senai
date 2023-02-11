@@ -1,31 +1,85 @@
-/*cabeçalho*/
-
-
-/*Conteudo principal*/
-
-
-/*banner*/
-
-
-/*Produtos vendidos*/
-
-
-/*Rodapé*/
-
-footer {
-    text-align: center;
-}
-
-footer p {
-    font-weiht: bold;
-    padding: 10px;
-}
-
-
-/*Botão Voltar topo*/
-
-
-/* página de login  */
-
-
-/* Formulário de cadastro*/
+        /*cabeçalho*/
+        
+        header img {
+            height: 70px;
+            width: 70px;
+        }
+        /*Conteudo principal*/
+        
+        main {
+            min-height: 500px;
+        }
+        /*banner*/
+        
+        #section-banners img {
+            height: 500px;
+        }
+        /*Produtos vendidos*/
+        
+        #section-vendidos {
+            text-align: center;
+        }
+        
+        #section-vendidos h2 {
+            font-weight: bold;
+            padding: 20px;
+        }
+        
+        #section-vendidos img {
+            height: 300px;
+            border-radius: 10px;
+        }
+        
+        #section-vendidos .card {
+            margin: 5px;
+            border: 1px solid#ccc;
+            border-radius: 10px;
+        }
+        
+        #section-vendidos .preco {
+            color: red;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        /*Rodapé*/
+        
+        footer {
+            text-align: center;
+        }
+        
+        footer p {
+            font-weight: bold;
+            padding: 10px;
+        }
+        /*Botão Voltar topo*/
+        
+        #voltar-topo {
+            position: fixed;
+            bottom: 5px;
+            right: 50px;
+        }
+        /* página de login  */
+        
+        #section-login {
+            margin-top: 100px;
+        }
+        
+        #section-login h1 {
+            text-align: center;
+        }
+        
+        #section-login input {
+            width: 100%;
+        }
+        /* Formulário de cadastro*/
+        
+        #section-cadastro {
+            padding: 5px;
+            text-align: center;
+            background-color: #fff;
+        }
+        
+        #form-cadastrar {
+            padding: 50px;
+            display: none;
+        }
